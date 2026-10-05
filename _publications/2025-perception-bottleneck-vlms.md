@@ -8,6 +8,7 @@ authors:
   - Zifei Shan
   - Junxian He
 venue: "Arxiv, 2025"
+category: manuscripts
 ---
 
 **On the Perception Bottleneck of VLMs for Chart Understanding**

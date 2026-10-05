@@ -15,6 +15,7 @@ authors:
   - Maosong Sun
   - Junxian He
 venue: "NeurIPS 2023"
+category: conferences
 ---
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**

@@ -6,6 +6,7 @@ authors:
   - Junteng Liu
   - Junxian He
 venue: "NeurIPS 2023"
+category: conferences
 ---
 
 **Composing Parameter-Efficient Modules with Arithmetic Operations**

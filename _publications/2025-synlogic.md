@@ -17,6 +17,7 @@ authors:
   - Junjie Yan
   - Junxian He
 venue: "Arxiv, 2025"
+category: manuscripts
 ---
 
 **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**

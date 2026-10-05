@@ -9,6 +9,7 @@ authors:
   - Siyang Gao
   - Junxian He
 venue: "ICML 2024"
+category: conferences
 ---
 
 **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**

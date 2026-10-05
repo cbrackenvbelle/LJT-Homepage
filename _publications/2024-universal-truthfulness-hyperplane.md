@@ -6,6 +6,7 @@ authors:
   - Yu Cheng
   - Junxian He
 venue: "EMNLP 2024"
+category: conferences
 ---
 
 **On the Universal Truthfulness Hyperplane Inside LLMs**
